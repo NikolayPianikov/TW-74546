@@ -1,0 +1,2 @@
+SET TEAMCITY_VERSION=2022
+dotnet test

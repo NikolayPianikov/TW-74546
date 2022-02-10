@@ -1,0 +1,1 @@
+Powershell.exe -File RunTest.ps1 
